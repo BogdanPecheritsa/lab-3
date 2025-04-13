@@ -1,0 +1,102 @@
+﻿@startuml
+package "Adapter" {
+class ILogger {
++Log(message: string)
++Error(message: string)
++Warn(message: string)
+}
+class ConsoleLogger
+class FileWriter {
++Write(text: string)
++WriteLine(text: string)
+}
+class FileLoggerAdapter
+ILogger <|.. ConsoleLogger
+ILogger <|.. FileLoggerAdapter
+FileLoggerAdapter ..> FileWriter
+}
+package "Decorator" {
+interface IHero {
++GetName(): string
++GetDescription(): string
+}
+class Warrior
+class Mage
+class Palladin
+abstract class HeroDecorator {
+-hero: IHero
++GetName(): string
++GetDescription(): string
+}
+class ArmorDecorator
+class WeaponDecorator
+class ArtifactDecorator
+IHero <|.. Warrior
+IHero <|.. Mage
+IHero <|.. Palladin
+IHero <|.. HeroDecorator
+HeroDecorator <|-- ArmorDecorator
+HeroDecorator <|-- WeaponDecorator
+HeroDecorator <|-- ArtifactDecorator
+}
+package "Bridge" {
+interface IRenderer {
++RenderCircle()
++RenderSquare()
++RenderTriangle()
+}
+class VectorRenderer
+class RasterRenderer
+abstract class Shape {
+-renderer: IRenderer
++Draw()
+}
+class Circle
+class Square
+class Triangle
+IRenderer <|.. VectorRenderer
+IRenderer <|.. RasterRenderer
+Shape <|-- Circle
+Shape <|-- Square
+Shape <|-- Triangle
+}
+package "Proxy" {
+interface ITextReader {
++ReadFile(path: string): char[][]
++Close()
+}
+class SmartTextReader
+class SmartTextChecker
+class SmartTextReaderLocker
+ITextReader <|.. SmartTextReader
+ITextReader <|.. SmartTextChecker
+ITextReader <|.. SmartTextReaderLocker
+}
+package "Composite" {
+abstract class LightNode {
++GetOuterHTML(): string
++GetInnerHTML(): string
+}
+class LightTextNode
+class LightElementNode {
++AddChild(node: LightNode)
++GetOuterHTML(): string
++GetInnerHTML(): string
+}
+LightNode <|-- LightTextNode
+LightNode <|-- LightElementNode
+}
+package "Flyweight" {
+class LightElementFlyweight {
+-TagName: string
+-Display: DisplayType
+-CloseType: ClosingType
+}
+class LightElementFlyweightFactory {
++GetFlyweight(key: string): LightElementFlyweight
+}
+class FlyweightElementNode
+LightElementFlyweightFactory --> LightElementFlyweight
+FlyweightElementNode ..> LightElementFlyweight
+}
+@enduml

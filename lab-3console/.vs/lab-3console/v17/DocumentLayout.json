@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\lab3diagram.puml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:lab3diagram.puml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\flyweight\\flyweightdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:flyweight\\flyweightdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\composite\\compositedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:composite\\compositedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\proxy\\proxydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:proxy\\proxydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\bridge\\bridgedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:bridge\\bridgedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\decorator\\decoratordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:decorator\\decoratordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|c:\\users\\hp\\desktop\\programming-labs\\lab-3\\lab-3console\\adapter\\adapterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF02EA-8B1B-48B3-8E70-E9C10D2348C7}|lab-3console.csproj|solutionrelative:adapter\\adapterdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3Diagram.puml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Lab3Diagram.puml",
+              "RelativeDocumentMoniker": "Lab3Diagram.puml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Lab3Diagram.puml",
+              "RelativeToolTip": "Lab3Diagram.puml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T11:12:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyweightDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Flyweight\\FlyweightDemo.cs",
+              "RelativeDocumentMoniker": "Flyweight\\FlyweightDemo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Flyweight\\FlyweightDemo.cs",
+              "RelativeToolTip": "Flyweight\\FlyweightDemo.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAwAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:04:34.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompositeDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Composite\\CompositeDemo.cs",
+              "RelativeDocumentMoniker": "Composite\\CompositeDemo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Composite\\CompositeDemo.cs",
+              "RelativeToolTip": "Composite\\CompositeDemo.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAYwBQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:03:45.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProxyDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Proxy\\ProxyDemo.cs",
+              "RelativeDocumentMoniker": "Proxy\\ProxyDemo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Proxy\\ProxyDemo.cs",
+              "RelativeToolTip": "Proxy\\ProxyDemo.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAiwCsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:03:02.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BridgeDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Bridge\\BridgeDemo.cs",
+              "RelativeDocumentMoniker": "Bridge\\BridgeDemo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Bridge\\BridgeDemo.cs",
+              "RelativeToolTip": "Bridge\\BridgeDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:02:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecoratorDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Decorator\\DecoratorDemo.cs",
+              "RelativeDocumentMoniker": "Decorator\\DecoratorDemo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Decorator\\DecoratorDemo.cs",
+              "RelativeToolTip": "Decorator\\DecoratorDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:01:33.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdapterDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Adapter\\AdapterDemo.cs",
+              "RelativeDocumentMoniker": "Adapter\\AdapterDemo.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Adapter\\AdapterDemo.cs",
+              "RelativeToolTip": "Adapter\\AdapterDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:00:22.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\programming-labs\\lab-3\\lab-3console\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T10:56:13.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

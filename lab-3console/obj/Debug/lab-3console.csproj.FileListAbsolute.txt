@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\programming-labs\lab-3\lab-3console\bin\Debug\lab-3console.exe.config
+C:\Users\Hp\Desktop\programming-labs\lab-3\lab-3console\bin\Debug\lab-3console.exe
+C:\Users\Hp\Desktop\programming-labs\lab-3\lab-3console\bin\Debug\lab-3console.pdb
+C:\Users\Hp\Desktop\programming-labs\lab-3\lab-3console\obj\Debug\lab-3console.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\programming-labs\lab-3\lab-3console\obj\Debug\lab-3console.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\programming-labs\lab-3\lab-3console\obj\Debug\lab-3console.exe
+C:\Users\Hp\Desktop\programming-labs\lab-3\lab-3console\obj\Debug\lab-3console.pdb
